@@ -1,7 +1,7 @@
 [Icon Theme]
 Name=WindowsIcons
 Example=folder
-Inherits=hicolor,Windows 7
+Inherits=hicolor
 
 # KDE Specific Stuff
 DisplayDepth=32
